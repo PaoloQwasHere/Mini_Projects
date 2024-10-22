@@ -1,0 +1,18 @@
+# Battleship Game
+This is a simple implementation of the classic game Battleship in Python. Players take turns guessing the locations of each other's ships on a grid, aiming to sink all opponent's ships before their own are sunk.
+
+## Features
+- Player vs. Computer mode.
+- Random ship placement for the computer.
+- User-friendly input for player turns.
+- Visual representation of attacks with hits and misses tracked.
+- Summary board for Player 1 showing hits and misses after each attack.
+
+## Requirements
+- Python 3.x
+
+## How to Run
+1. Clone this repository or download the source code.
+2. Open a terminal or command prompt.
+3. Navigate to the directory containing the script.
+4. Run the script with Python.
